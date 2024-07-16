@@ -17,7 +17,7 @@
 | [송지우/@nsong113](https://github.com/nsong113)                   | nsong113@gmail.com        |
 | [이다현/@jrary](https://github.com/jrary)                         | kijrary@gmail.com         |
 | [이효경/@HyoKyoungLee](https://github.com/HyoKyoungLee)           | as167@naver.com           |
-| [김범연/@mahwin](https://github.com/mahwin)                       | mahwin7085@gmail.com      |
+| [최형욱/@w00khyung](https://github.com/w00khyung)                       | qpflapffhs76@gmail.com      |
 | [최윤지/@Yoonji23](https://github.com/Yoonji23)                   | grw0723670@gmail.com      |
 
 ## 2. Group Rules
