@@ -1,0 +1,20 @@
+{
+  "name": "2024-07-modern-javascript-deep-dive",
+  "version": "1.0.0",
+  "description": "monthly-cs/2024-07/modern javascript deep dive",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "md": "node lib/createMd.js",
+    "presentation": "node lib/createPresentation.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/monthly-cs/2024-07-modern-javascript-deep-dive"
+  },
+  "author": "iamkanguk97",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.11"
+  }
+}
