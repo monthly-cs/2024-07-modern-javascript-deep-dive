@@ -1,5 +1,5 @@
 /** GitHub Nicknames of our study */
-export default githubNames = [
+export const githubNames = [
   "iamkanguk97",
   "paran22",
   "paigekim29",
