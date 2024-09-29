@@ -171,19 +171,9 @@ e = new InputEvent('change');
 </html>
 ```
 
-### 40.5.2 이벤트 객체의 공통 프로퍼티
-
-### 40.5.3 마우스 정보 취득
-
-- click, dbclick, mousedown, mouseup, mouseenterm mouseleave 이벤트가 발생하면 생성되는 MouseEvent
-- 마우스 포인터의 좌표 정보를 나타내는 프로퍼티, 버튼 정보를 나타내는 프로퍼티를 갖는다.
-
-### 40.5.4 키보드 정보 취득
-
-- keydown, keyup, keypress 이벤트가 발생하면 생성되는 KeyboardEvent
-- 입력한 키 값을 문자열로 반환하는 key 프로퍼티를 제공한다.
-
 ## 40.6 이벤트 전파
+
+![](image-1.png)
 
 - 이벤트 버블링의 동작 원리
 이벤트 버블링은 HTML 요소에서 발생한 이벤트가 그 요소의 부모 요소로 전달되는 현상을 의미한다. 예를 들어, `<div>` 안에 있는 `<em>`이나 `<code>` 같은 태그를 클릭해도, 이 클릭 이벤트가 부모인 `<div>`까지 전달되어 `<div>`에 설정된 핸들러도 실행되는 것이다.
