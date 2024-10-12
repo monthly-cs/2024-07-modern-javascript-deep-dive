@@ -1,0 +1,4 @@
+# 12주차 발표자료
+
+https://github.com/paran22/study/blob/main/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20Deep%20Dive/48%EC%9E%A5%20%EB%AA%A8%EB%93%88.md
+https://github.com/paran22/study/blob/main/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20Deep%20Dive/49%EC%9E%A5%20Babel%EA%B3%BC%20Webpack%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20ES6%2B%20ES%20NEST%20%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95.md
